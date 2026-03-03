@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "ReportePAE_API.Controllers.SOSController",
+    "Method": "AtenderReporte",
+    "RelativePath": "api/SOS/{id}/atender",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReportePAE_API.Controllers.SOSController",
+    "Method": "ListarReportes",
+    "RelativePath": "api/SOS/listar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReportePAE_API.Controllers.SOSController",
+    "Method": "ReportarSOS",
+    "RelativePath": "api/SOS/reportar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "reporte",
+        "Type": "ReportePAE_API.Models.ReporteSOS",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

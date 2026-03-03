@@ -1,0 +1,8 @@
+C:\Users\PAE\Documents\ReportePAE_API\ReportePAE_API\obj\Debug\net8.0\ReportePAE_API.csproj.AssemblyReference.cache
+C:\Users\PAE\Documents\ReportePAE_API\ReportePAE_API\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\PAE\Documents\ReportePAE_API\ReportePAE_API\obj\Debug\net8.0\ReportePAE_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PAE\Documents\ReportePAE_API\ReportePAE_API\obj\Debug\net8.0\ReportePAE_API.AssemblyInfoInputs.cache
+C:\Users\PAE\Documents\ReportePAE_API\ReportePAE_API\obj\Debug\net8.0\ReportePAE_API.AssemblyInfo.cs
+C:\Users\PAE\Documents\ReportePAE_API\ReportePAE_API\obj\Debug\net8.0\ReportePAE_API.csproj.CoreCompileInputs.cache
+C:\Users\PAE\Documents\ReportePAE_API\ReportePAE_API\obj\Debug\net8.0\ReportePAE_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PAE\Documents\ReportePAE_API\ReportePAE_API\obj\Debug\net8.0\ReportePAE_API.MvcApplicationPartsAssemblyInfo.cache
